@@ -1,0 +1,136 @@
+The Project Gutenberg EBook of The Critique of Practical Reason, by Immanuel Kant
+(#3 in our series by Immanuel Kant)
+
+Copyright laws are changing all over the world. Be sure to check 
+the
+copyright laws for your country before downloading or redistributing
+this or any other Project Gutenberg eBook.
+
+This header should be the first thing seen when viewing this Projec
+t
+Gutenberg file.  Please do not remove it.  Do not change or edit the
+header without written permission.
+
+Please read the "legal small print," and other information about the
+eBook 
+and Project Gutenberg at the bottom of this file.  Included is
+important information about your specific rights and restrictions in
+how the file may be used.  You can also find o
+ut about how to make a
+donation to Project Gutenberg, and how to get involved.
+
+
+**Welcome To The World of Free Plain Vanilla Electronic Texts**
+
+**eBooks Readable By Both Humans and 
+By Computers, Since 1971**
+
+*****These eBooks Were Prepared By Thousands of Volunteers!*****
+
+
+Title: The Critique of Practical Reason
+
+Author: Immanuel Kant
+
+Release Date: May, 2004  
+[EBook #5683]
+[Yes, we are more than one year ahead of schedule]
+[This file was first posted on August 7, 2002]
+
+Edition: 10
+
+Language: English
+
+Character set encoding: ASCII
+
+*** START
+ OF THE PROJECT GUTENBERG EBOOK, THE CRITIQUE OF PRACTICAL REASON ***
+
+
+
+
+This eBook was prepared by Matthew Stapleton.
+
+
+
+				 1788
+
+		   THE CRITIQUE 
+OF PRACTICAL REASON
+
+			   by Immanuel Kant
+
+		translated by Thomas Kingsmill Abbott
+
+
+PREFACE.
+
+This work is called the Critique of Practical Reason, not 
+of the
+pure practical reason, although its parallelism with the speculative
+critique would seem to require the latter term. The reason of this
+appears sufficiently from the treati
+se itself. Its business is to show
+that there is pure practical reason, and for this purpose it
+criticizes the entire practical faculty of reason. If it succeeds in
+this, it has 
+no need to criticize the pure faculty itself in order
+to see whether reason in making such a claim does not presumptuously
+overstep itself (as is the case with the speculative reason).
+ For
+if, as pure reason, it is actually practical, it proves its own
+reality and that of its concepts by fact, and all disputation
+against the possibility of its being real is futile
+.
+
+With this faculty, transcendental freedom is also established;
+freedom, namely, in that absolute sense in which speculative reason
+required it in its use of the concept of
+ causality in order to
+escape the antinomy into which it inevitably falls, when in the
+chain of cause and effect it tries to think the unconditioned.
+Speculative reason could only
+ exhibit this concept (of freedom)
+problematically as not impossible to thought, without assuring it
+any objective reality, and merely lest the supposed impossibility of
+what it m
+ust at least allow to be thinkable should endanger its very
+being and plunge it into an abyss of scepticism.
+
+Inasmuch as the reality of the concept of freedom is proved by an
+apodeicti
+c law of practical reason, it is the keystone of the whole
+system of pure reason, even the speculative, and all other concepts
+(those of God and immortality) which, as being mere idea
+s, remain in
+it unsupported, now attach themselves to this concept, and by it
+obtain consistence and objective reality; that is to say, their
+possibility is proved by the fact that free
+dom actually exists, for
+this idea is revealed by the moral law.
+
+Freedom, however, is the only one of all the ideas of the
+speculative reason of which we know the possibility a priori (wi
+thout,
+however, understanding it), because it is the condition of the moral
+law which we know. * The ideas of God and immortality, however, are
+not conditions of the moral law, but only con
+ditions of the necessary
+object of a will determined by this law; that is to say, conditions of
+the practical use of our pure reason. Hence, with respect to these
+ideas, we cannot affir
+m that we know and understand, I will not say
+the actuality, but even the possibility of them. However they are
+the conditions of the application of the morally determined will to
+its 
+object, which is given to it a priori, viz., the summum bonum.
+Consequently in this practical point of view their possibility must be
+assumed, although we cannot theoretically know and 
+understand it. To
+justify this assumption it is sufficient, in a practical point of
+view, that they contain no intrinsic impossibility (contradiction).
+Here we have what, as far as 
+speculative reason is concerned, is a
+merely subjective principle of assent, which, however, is
+objectively valid for a reason equally pure but practical, and this
+principle, by 
